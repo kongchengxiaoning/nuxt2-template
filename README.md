@@ -13,6 +13,9 @@ $ yarn dev
 $ yarn build
 $ yarn start
 
+# preview the release static resource analysis
+$ yarn report
+
 # generate static project
 $ yarn generate
 ```
